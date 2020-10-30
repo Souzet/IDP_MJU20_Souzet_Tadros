@@ -1,0 +1,8 @@
+﻿'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Users\souzet\source\repos\IDP_MJU20_Souzet_Tadros\bin\Debug\netcoreapp3.1\IDP_MJU20_Souzet_Tadros.dll'. Symbols loaded.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'IDP_MJU20_Souzet_Tadros.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[12192] IDP_MJU20_Souzet_Tadros.exe' has exited with code 0 (0x0).
